@@ -1,0 +1,15 @@
+.wrapper {
+  padding-left: 300px;
+  padding-top: 100px;
+  width: calc(90vw - 300px);
+  margin: auto;
+
+  .accordion {
+    margin: 30px 0px 30px 0px;
+    background-color: cornflowerblue;
+
+    .details {
+      background-color: whitesmoke;
+    }
+  }
+}
